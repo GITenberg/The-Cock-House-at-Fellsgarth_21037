@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9657
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21037#The-Cock-House-at-Fellsgarth
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '2007-04-11'
 gutenberg_type: Text
